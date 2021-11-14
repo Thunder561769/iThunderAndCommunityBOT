@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login(process.env.Token);
+client.login(process.env.token);
 
 
 // REAZIONI
