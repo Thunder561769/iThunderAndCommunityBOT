@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login("OTA2NDUzODQ4ODM3NzIyMTUz.YYY27g.hjzo22tvWE6dLHcfOGte0Cx5qDI");
+client.login(process.env.Token);
 
 
 // REAZIONI
